@@ -173,6 +173,10 @@ a {
 .header__logo {
   max-width: 160px;
 }
+
+.header__navbar {
+  display: flex;
+}
 @media (max-width: 965px) {
   .header__navbar {
     position: fixed;
